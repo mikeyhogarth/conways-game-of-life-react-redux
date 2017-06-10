@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  }
+  
+.board {
+  margin: 0 auto;
+}
+.cell {
+  width:  1em;
+  height: 1em;
+  border: 1px solid black;
+}
+
+.on {
+  background-color: black;
+}
