@@ -4,7 +4,7 @@ import CellContainer  from './cell.container';
 
 const Board = (props) => {
   
-  const { turn, size, data, onNextTurn, onStart, onStop, onReset } = props;
+  const { size, data, onNextTurn, onStart, onStop, onReset } = props;
 
   return (
     <div>
